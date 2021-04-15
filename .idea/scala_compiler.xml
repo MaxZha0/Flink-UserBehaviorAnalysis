@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="HotItemsAnalysis,MarketAnalysis,NetworkFlowAnaly,UserBehaviorAnalysis,a_HotItemsAnalysis,b_NetworkFlowAnaly,c_MarketAnalysis,d_LoginFailedDetect,d_UserBehaviorAnalysis,e_OrderPayDetect,电商用户行为分析" />
+  </component>
+</project>
